@@ -1,0 +1,6 @@
+worldTime = 168260271
+It is 9:51 on day 48 of the year 321.
+Trammel is in day 1 of its 9 day phase.
+Trammel is in day 4 of its 14 day phase.
+
+Process finished with exit code 0
